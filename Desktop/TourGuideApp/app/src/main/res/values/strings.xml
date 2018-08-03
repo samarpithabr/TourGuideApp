@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Places">Places Near By</string>
+    <string name="rest">Restaurants</string>
+    <string name="hot">Hotels</string>
+    <string name="shop">Shopping</string>
+    <string name="big">Big Bazar</string>
+    <string name="bigd">Get Home Care,Food items and Latest Fashions.</string>
+    <string name="kamana">Kamanagudi Circle</string>
+    <string name="kamanad">Gold,Silver and Diamond Jewelry</string>
+    <string name="naks">Nakshatra Collections</string>
+    <string name="naksd">Apparel shop for Family</string>
+    <string name="adi">Adigas</string>
+    <string name="adid">Pure Vegetarian.</string>
+    <string name="anand">Adyar Anand Bhavan</string>
+    <string name="anandd">Pure Veg</string>
+    <string name="har">Haripriya</string>
+    <string name="hard">Breakfast</string>
+    <string name="guru">Gururaja Continental</string>
+    <string name="gurud">Non -Vegetarian</string>
+    <string name="krsd">Krishna Raja Sagara Dam</string>
+    <string name="krs">The dam was built across river Cauvery in 1924. It is the main source of water for the districts of Mysore[citation needed]. The water is used for irrigation in Mysore and Mandya and it is the main source of drinking water for all of Mysore, Mandya and almost the whole of Bengaluru city, the capital of the state of Karnataka. The water released from this dam flows into the state of Tamil Nadu, and is stored in Mettur dam in the Salem district.</string>
+    <string name="rangan">Ranganathittu Bird Sanctuary</string>
+    <string name="rangand">Roughly 170 bird species[9] have been recorded here.The sanctuary attracted about 3 lakh visitors during 2016–17, which shows its notability as important bird sanctuary of India.It is the largest bird sanctuary in the state,[2] only 40 acres (16 ha) in area,[3] and comprises six islets on the banks of the Kaveri river.</string>
+    <string name="brund">The work on laying out this garden was started in the year 1927 and completed in 1932.[2][3] Visited by close to 2 million tourists per year, the garden is one of the major attractions of Srirangapatna.The main attraction of the park is the musical fountain in which bursts of water are synchronised to the music of songs.</string>
+    <string name="bru">Brundavan Gardens</string>
+    <string name="gagan">Gaganachukki Falls View Point</string>
+    <string name="bird">On the way to the waterfalls is located Bluff. Eastern Asia’s first, power generating station set up by the Dewan of Mysore in 1902 and meant to supply power to the Kolar Gold Fields nearly 200 km away. The area is called \'Bluff\' after the 1 37.1 6 metres bluff which facilitated the laying of hydraulic pipes for feeding the turbines at the generating station.</string>
+    <string name="sura">Hotel Surabhi</string>
+    <string name="surad">Set in Mandya, Hotel Surabi provides air-conditioned rooms with free WiFi. Featuring a 24-hour front desk, this property also provides guests with a restaurant.</string>
+    <string name="jyothi">Hotel Jyothi International</string>
+    <string name="thim">Hotel Jyothi international is offering accommodation in Kommārahalli. Boasting a 24-hour front desk, this property also provides guests with a restaurant.</string>
+    <string name="jyod">Hotel Thimmadas Residency is offering accommodation in Maddūr. This 1-star hotel offers a 24-hour front desk and free WiFi. The tour desk is available to assist guests in planning their days out.</string>
+    <string name="thimms">Hotel Thimmadas</string>
+</resources>
